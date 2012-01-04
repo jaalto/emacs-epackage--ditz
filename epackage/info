@@ -1,0 +1,21 @@
+Package: ditz
+Section: extensions
+License: GPL
+Depends: emacs (>= 22)
+Status: unmaintained
+Compat:
+Maintainer: Jari Aalto <jari.aalto@cante.net>
+Bugs: https://github.com/kentaro/emacs-ditz/issues
+Upstream: Kentaro Kuribayashi <kentarok@gmail.com>
+Upstream-Bugs:
+Vcs-Type: git
+Vcs-Url: git://github.com/kentaro/emacs-ditz.git
+Vcs-Browser: https://github.com/kentaro/emacs-ditz
+Homepage:
+Wiki: http://www.emacswiki.org/emacs/Ditz
+Commentary: ditz.el
+Description: client interface to Ditz issue tracking system
+ For more information about Ruby based distributed bug tracking system,
+ see <http://ditz.rubyforge.org>.
+ .
+ Note: 2012-01-04 the code hasn't been touched since 2008.
