@@ -17,4 +17,4 @@
 (autoload 'ditz-call-process                    "ditz" "" nil)
 (autoload 'ditz-build-command                   "ditz" "" nil)
 (autoload 'ditz-mode                            "ditz" "" t)
-(provide 'ditz-epkg-autoloads)
+(provide 'ditz-epackage-autoloads)

@@ -14,4 +14,4 @@
 (autoload 'ditz-reload                          "ditz" "" t)
 (autoload 'ditz-close-buffer                    "ditz" "" t)
 (autoload 'ditz-mode                            "ditz" "" t)
-(provide 'ditz-epkg-install)
+(provide 'ditz-epackage-install)

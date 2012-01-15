@@ -1,5 +1,5 @@
 ;; Prevent loading this file. Study the examples.
-(error "ditz-epkg-examples.el is not a configuration file.")
+(error "ditz-epackage-examples.el is not a configuration file.")
 
 ;; Path to the ditz command (default: "ditz")
 (setq ditz-program (executable-find "ditz"))
